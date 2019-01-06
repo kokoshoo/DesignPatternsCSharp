@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v2.1": {
       "DesignPatternsInAction/1.0.0": {
         "dependencies": {
-          "DesignPatternsCSharp": "1.0.0"
+          "DesignPatternsCSharpLib": "1.0.0"
         },
         "runtime": {
           "DesignPatternsInAction.dll": {}
         }
       },
-      "DesignPatternsCSharp/1.0.0": {
+      "DesignPatternsCSharpLib/1.0.0": {
         "runtime": {
-          "DesignPatternsCSharp.dll": {}
+          "DesignPatternsCSharpLib.dll": {}
         }
       }
     }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "DesignPatternsCSharp/1.0.0": {
+    "DesignPatternsCSharpLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

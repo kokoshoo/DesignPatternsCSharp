@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "DesignPatternsCSharpLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/DesignPatternsCSharpLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DesignPatternsCSharpLib.dll": {}
+        }
       }
     }
   },
@@ -680,10 +690,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "DesignPatternsCSharpLib/1.0.0": {
+      "type": "project",
+      "path": "../DesignPatternsCSharpLib/DesignPatternsCSharpLib.csproj",
+      "msbuildProject": "../DesignPatternsCSharpLib/DesignPatternsCSharpLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "DesignPatternsCSharpLib >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -715,7 +731,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsCSharpLib/DesignPatternsCSharpLib.csproj": {
+              "projectPath": "/Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsCSharpLib/DesignPatternsCSharpLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

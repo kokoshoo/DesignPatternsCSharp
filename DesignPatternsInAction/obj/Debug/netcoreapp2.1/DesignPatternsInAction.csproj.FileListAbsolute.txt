@@ -3,8 +3,6 @@
 /Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsInAction/bin/Debug/netcoreapp2.1/DesignPatternsInAction.runtimeconfig.dev.json
 /Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsInAction/bin/Debug/netcoreapp2.1/DesignPatternsInAction.dll
 /Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsInAction/bin/Debug/netcoreapp2.1/DesignPatternsInAction.pdb
-/Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsInAction/bin/Debug/netcoreapp2.1/DesignPatternsCSharp.dll
-/Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsInAction/bin/Debug/netcoreapp2.1/DesignPatternsCSharp.pdb
 /Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsInAction/obj/Debug/netcoreapp2.1/DesignPatternsInAction.csprojAssemblyReference.cache
 /Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsInAction/obj/Debug/netcoreapp2.1/DesignPatternsInAction.csproj.CoreCompileInputs.cache
 /Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsInAction/obj/Debug/netcoreapp2.1/DesignPatternsInAction.AssemblyInfoInputs.cache
@@ -12,3 +10,5 @@
 /Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsInAction/obj/Debug/netcoreapp2.1/DesignPatternsInAction.csproj.CopyComplete
 /Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsInAction/obj/Debug/netcoreapp2.1/DesignPatternsInAction.dll
 /Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsInAction/obj/Debug/netcoreapp2.1/DesignPatternsInAction.pdb
+/Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsInAction/bin/Debug/netcoreapp2.1/DesignPatternsCSharpLib.dll
+/Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsInAction/bin/Debug/netcoreapp2.1/DesignPatternsCSharpLib.pdb

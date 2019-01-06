@@ -1,0 +1,8 @@
+/Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsCSharpLib/bin/Debug/netstandard2.0/DesignPatternsCSharpLib.deps.json
+/Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsCSharpLib/bin/Debug/netstandard2.0/DesignPatternsCSharpLib.dll
+/Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsCSharpLib/bin/Debug/netstandard2.0/DesignPatternsCSharpLib.pdb
+/Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsCSharpLib/obj/Debug/netstandard2.0/DesignPatternsCSharpLib.csproj.CoreCompileInputs.cache
+/Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsCSharpLib/obj/Debug/netstandard2.0/DesignPatternsCSharpLib.AssemblyInfoInputs.cache
+/Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsCSharpLib/obj/Debug/netstandard2.0/DesignPatternsCSharpLib.AssemblyInfo.cs
+/Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsCSharpLib/obj/Debug/netstandard2.0/DesignPatternsCSharpLib.dll
+/Users/jrodriguez/programming/personal/DesignPatternsCSharp/DesignPatternsCSharpLib/obj/Debug/netstandard2.0/DesignPatternsCSharpLib.pdb

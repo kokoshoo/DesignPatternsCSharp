@@ -7,11 +7,24 @@ namespace DesignPatternsCSharp.Strategy
         IBreakBehavior breakBehavior;
         IFallBehavior fallBehavior;
 
+        public string Name { get; set; }
+
         public Chair(ISoundBehavior sb, IBreakBehavior bb, IFallBehavior fb)
         {
             soundBehavior = sb;
             breakBehavior = bb;
             fallBehavior = fb;
+        }
+
+        public void StartActionSequence()
+        {
+
+            Console.WriteLine((Name ?? "Mysterious Chair") + ":");
+            MakeNoise();
+            Fall();
+            Break();
+
+            Console.WriteLine("----------------");
         }
 
         public void Fall()

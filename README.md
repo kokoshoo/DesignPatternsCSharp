@@ -1,2 +1,0 @@
-# DesignPatternsCSharp
-Init Commit
